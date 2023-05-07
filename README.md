@@ -1,7 +1,7 @@
 # Chat-Server
 Socket-based chat server made with JavaScript (Express), HTML, and CSS
 
-Author: Saeid El-Saadi
+Author: Saeid El-Saadi <br>
 Operating system: Windows
 node version: v18.13.0
 
